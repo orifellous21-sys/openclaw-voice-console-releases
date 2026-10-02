@@ -1,9 +1,9 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.1.6",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.1.6/OpenClaw-Voice-Console-Setup-0.1.6.exe",
-  "sha256": "ccbc74b49b8fc4a8d8c6ac9095d022bc9aa300d08a9f51bf8dda2b736ba96c76",
-  "size": 162168494,
-  "notes": "Verified updater target. Shows the installed version after relaunch.",
-  "signature": "HttWTc1wws0+IsC45o8cGsOGg+zDLq290ezT+dq9eQxmSrTF39u4ib91DZ8lwgXrDhxF8bWL3OAfPeb+HF627P/P5bOTw+u06mkMSJiCV+xUHPPD5lPucZivJHb/WrIKh+JiyMr48k9qtk/06ZXpYnGUfMQfXICTyfeV8fdsmQzLPw8R1mJ94jmFXbd4spyaj4oyfLirWtc6UZip/hf3NnrQmKBoZSpA7AtjtF36+6wipMTzYhEFealKdSZfHog5TUVwCtW7WMOCZ+hKxYD3b9phgbUmETC/Xmupqe7B+ssQDPE98UkDvluWAL3jfYnBuJgV3Q6khw1zkJlCcUUql2z/Lyd16ubcehilZtMBEIODI0yjfT/sqIVM2y8MNwlCJDci8kHkIDq1dBpMDQi03fXCrtUYjKZTLLsdk7hvRfguVuPO8OhPwENBRRUj2XvA8F4w6axAWBaQ08mzsmye82iaBiBnYHZcuir1ZSPId30OmsJzPNnC8ni07xQd8iR9"
+  "version": "0.1.7",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.1.7/OpenClaw-Voice-Console-Setup-0.1.7.exe",
+  "sha256": "945cca87ab5a58a8df43ae49312d1839e0685f9eb8da4c45d52eb46d342b7c97",
+  "size": 162178648,
+  "notes": "Five-second hands-free silence, focus continuity, and clean inactive annotations.",
+  "signature": "VSXkWS2cQ+F7KpgJFR0gKo7gtNonuGivdtIDauCN7p7WQb51OYE5Ljzws+/GKZiVgWlGG5NWIfRINwaY/zsLN1u3Be9Qter/BaUvlovB4iIUF2DcSJ3mPS3t2JpDm8S/JZNAc45abjOJsRxrUmxwj6wyD5xjHqQ5wwsrgTGdNtmyQvlhPPahzmqvshYkKKuRZhLQNspR71q+NER/upH9+gNbGt4Z6wwT1sKwUhV9wVDVYGfYk46kjmCI88qjcwGFmuU7jCBK/xG53ZgF9CFVgSgZMXasAvAAXnTgclFe/LR8GlwvFexzOCliOpFxV3uMjl72zKNVEej6xCCG4qlT4qsiBgPuJ33JWdfIEsRi68qAqa9En47+tKj8p4qax91uPlwDnWTMwqHBZagPBvS+nGQh6U/6HFvnO9yXGy5taoA8xZP+Xl2NqAC92l99nx122sHoZtfGRwJ9d14twbmAw6hIwR7jl+NXPFa8BCVpYx+T44Xrl1EnUvwk3rakZRfS"
 }
