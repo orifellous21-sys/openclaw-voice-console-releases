@@ -1,9 +1,9 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.0",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.0/OpenClaw-Voice-Console-Setup-0.2.0.exe",
-  "sha256": "954dc0634a6a565e0dc8d1185919a10e786c912f802c1747cd203fb7555cbd01",
-  "size": 162289438,
-  "notes": "Iron Workspace is ready. The app now shows a prominent verified update notice and install button.",
-  "signature": "Cb0skKUJBlD3ckUMBz8yTUCnJgTVLAyqP1tOsaW4e8MX59OssRiMn293H8BqGip8W7Rx/YNDlsMGbkbV9u6mHQOaiuJvVBbyvUF5MCUGsOmEa4t8NGRDoz9xQB6tWjz20hgsXKNrT5M6Wp047wauixBg3cr6JbOZL+81Eds2o7CYjuRtq+WmwbK8DPOmOmpA1ECZx1ltBDnnL4sROzK+234/3YtCI5ZiUGBFwNh/2RnMvCx+YYI1eIrkgpOIvtbFHR525DcdfrsE8pBvRgWVWv4siQFjy9GOoorHGuRCK3GgBQn2H67JrTf24LHqR/7jQIt1qbAsW/xLgvqCkKn7H/tXLxRqb0Gancv3DTPQ9RUITzhna78ggJhSwP9hA7IJB03/17D6631dp90ym7YQ/usCRxq++ETEplTcjJLlgDd6WQqiEReChhlDYtEVDve57/v2GXQChZC1H+kzQ2MUuGfhDQQVilvAdCEuqPrSF3VEBAqijE3Yy4EOgjUDjgsP"
+  "version": "0.2.1",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.1/OpenClaw-Voice-Console-Setup-0.2.1.exe",
+  "sha256": "7ba7d72d9cc55783518be3bbd76b76fdbc911886b2aa78c70503604a78edb71a",
+  "size": 162282199,
+  "notes": "Faster short voice turns, spoken replies with mute, F11 fullscreen, and turn timings. Native Windows hardware test remains pending.",
+  "signature": "g903RgFqcvsE8JlBMXDURH2i8lwG9zKDK2WpeUGOiAwdYgN69LyYf+I37CBgSbmttb4MjOLBDnZUxLGKYmFZl/CSUKs7cpsYa7UPgTRlf6eddJn8/zRsfjGzyBRk0tOxIFBh3eVHvA58P326L5GBVZRVj7dX1cqi6evYL7F0RrlCZRDViAy7Lm00KS6tsDH4MNr+f57NzodxeaWMBHdpdI7V3wkKDqyCJ4zLue3qJsXrObqKd1+x1EgKOzcw/s+zSwsnBo4ncq1aPFPKqJ+aVibfSCvwVdkPUFsJkuCsCkqoUS7n1Afj2u+BynkxeAMY2tALEHAXjgK+J7XauOTUWZuY+qHMHHEl00BYmVR2s978AUAkMx9FX13/IUQgGu4nnhUfzBxrKiH4onHOW7WMXFAZs8H6g9gSXqlGvLbeWVFfwxAGrEa9vv4f9WJnRfUuvd2S7zktD2O50FhDP8Ye1XKOyEP6brrh1Bb/r0WAJngIU6m++DNFC6fZruJ7a3ue"
 }
