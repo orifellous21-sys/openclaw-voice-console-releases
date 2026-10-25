@@ -1,9 +1,9 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.1",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.1/OpenClaw-Voice-Console-Setup-0.2.1.exe",
-  "sha256": "7ba7d72d9cc55783518be3bbd76b76fdbc911886b2aa78c70503604a78edb71a",
-  "size": 162282199,
-  "notes": "Faster short voice turns, spoken replies with mute, F11 fullscreen, and turn timings. Native Windows hardware test remains pending.",
-  "signature": "g903RgFqcvsE8JlBMXDURH2i8lwG9zKDK2WpeUGOiAwdYgN69LyYf+I37CBgSbmttb4MjOLBDnZUxLGKYmFZl/CSUKs7cpsYa7UPgTRlf6eddJn8/zRsfjGzyBRk0tOxIFBh3eVHvA58P326L5GBVZRVj7dX1cqi6evYL7F0RrlCZRDViAy7Lm00KS6tsDH4MNr+f57NzodxeaWMBHdpdI7V3wkKDqyCJ4zLue3qJsXrObqKd1+x1EgKOzcw/s+zSwsnBo4ncq1aPFPKqJ+aVibfSCvwVdkPUFsJkuCsCkqoUS7n1Afj2u+BynkxeAMY2tALEHAXjgK+J7XauOTUWZuY+qHMHHEl00BYmVR2s978AUAkMx9FX13/IUQgGu4nnhUfzBxrKiH4onHOW7WMXFAZs8H6g9gSXqlGvLbeWVFfwxAGrEa9vv4f9WJnRfUuvd2S7zktD2O50FhDP8Ye1XKOyEP6brrh1Bb/r0WAJngIU6m++DNFC6fZruJ7a3ue"
+  "version": "0.2.2",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.2/OpenClaw-Voice-Console-Setup-0.2.2.exe",
+  "sha256": "1fc857f9733c5cf018aac57ce98841fe442c3d6080c220d6efb4d90404ba76a3",
+  "size": 162186306,
+  "notes": "Adds in-app 3D Studio install/update and voice control. Native Windows hardware acceptance remains pending.",
+  "signature": "HHD1Z1KDcYL+I4cYkZs/cEUZHBMTwhAkNsm/WVC/AopDhFs4Lm70Fy37QK8gCG5tCzpWruUD7VJP6Oa+B63+eBe3ySyp55+vVoJRQgRb8SKlbvC+WITVUMyuGBM3yfjPFwpO0KWDQMfiuZHTUCq91Y115j69g5K82V7o4uEWM4PgvJ/uxafHONeYr1aanknRgQ8oqgAGad83CM/LO4F367ebLuMg+luVR8Ocde+7ddH1yIiaJ/OYkN5kW8Ut93Sh+aT1nFQQXB1mQU3TY0OipCLyD+U1WZigss3sG7mpmeqFmrzYTjlRhcAapcNNRB1CRPwApY+lJNiBrKfpwwYjCEIHa4gRn0pLipabdkPYMLfxoWVfzocxEDHq2/PFV65RXquw/3MPXpWir1SMPUzUKZiioA+/Gv9UXXCtx+sed7f/f2WPgsh3jn9vlv/nhtZgglHOUNc52x0gzYUbUDTQN3LWrXIn+UoT64Le5CZDmnCYyARqnaOmxlkvLVkdFMQz"
 }
