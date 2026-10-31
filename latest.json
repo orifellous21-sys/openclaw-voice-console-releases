@@ -1,9 +1,9 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.2",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.2/OpenClaw-Voice-Console-Setup-0.2.2.exe",
-  "sha256": "1fc857f9733c5cf018aac57ce98841fe442c3d6080c220d6efb4d90404ba76a3",
-  "size": 162186306,
-  "notes": "Adds in-app 3D Studio install/update and voice control. Native Windows hardware acceptance remains pending.",
-  "signature": "HHD1Z1KDcYL+I4cYkZs/cEUZHBMTwhAkNsm/WVC/AopDhFs4Lm70Fy37QK8gCG5tCzpWruUD7VJP6Oa+B63+eBe3ySyp55+vVoJRQgRb8SKlbvC+WITVUMyuGBM3yfjPFwpO0KWDQMfiuZHTUCq91Y115j69g5K82V7o4uEWM4PgvJ/uxafHONeYr1aanknRgQ8oqgAGad83CM/LO4F367ebLuMg+luVR8Ocde+7ddH1yIiaJ/OYkN5kW8Ut93Sh+aT1nFQQXB1mQU3TY0OipCLyD+U1WZigss3sG7mpmeqFmrzYTjlRhcAapcNNRB1CRPwApY+lJNiBrKfpwwYjCEIHa4gRn0pLipabdkPYMLfxoWVfzocxEDHq2/PFV65RXquw/3MPXpWir1SMPUzUKZiioA+/Gv9UXXCtx+sed7f/f2WPgsh3jn9vlv/nhtZgglHOUNc52x0gzYUbUDTQN3LWrXIn+UoT64Le5CZDmnCYyARqnaOmxlkvLVkdFMQz"
+  "version": "0.2.3",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.3/OpenClaw-Voice-Console-Setup-0.2.3.exe",
+  "sha256": "75d3a55e05118203aa06c9bcd5fe7d3d4eb5b7a8a944df2223c89c8fa507047b",
+  "size": 162355403,
+  "notes": "Repairs sequential and long-message reliability, correlated recovery, 3D design generation, and prepares signed permission-neutral repair auto-staging. Native camera/projector acceptance remains pending.",
+  "signature": "GoqYGajxHZ8n5ynsO+UY54MNk6yI/Xm84+QFRInunjtU6WlzaD5DG9DeYIdqgID2YzcIA4Bmj5CHZm25+I/DVRH02/yILica5faI+7ObeetHJI4jCOE3YbdFZZ0aIHcMvnYr0HhULY4I/1Z7AXT5n/dZQb1WY7wJaqC7Z45lFUAV+pZvTVnZ2ppOBHDG/E0OJZfEf0d5M642SypW7Zu4HUxSUM1Li/w8Afc8x3kplDlPjqDmyFaFS2c416mHyzrbuwe6xfqfntfBeHJwmHWC85BYAIJUAHcQye674ZDmA1IhWNbR/LSLhJto3xwt92m2RgkB9rcVeLLEliJDNrfNaqjjZP4GsQAcGNWhygHVbdeJZXdrig1FyLNC4/onVA+gngC5MFcLs0dvN4stAqPsUI1Bc9zjzcwI9W0hiG7OtiSyE8j/N9Lip5jCGuj0RzvAKehikDwK4l/crGi3BRz4ZEk1/oLZ8dK4mWkQNSVFODcSqW7FqIxwpuSOb2LpnffF"
 }
