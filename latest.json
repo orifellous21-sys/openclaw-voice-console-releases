@@ -1,9 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.3",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.3/OpenClaw-Voice-Console-Setup-0.2.3.exe",
-  "sha256": "75d3a55e05118203aa06c9bcd5fe7d3d4eb5b7a8a944df2223c89c8fa507047b",
-  "size": 162355403,
-  "notes": "Repairs sequential and long-message reliability, correlated recovery, 3D design generation, and prepares signed permission-neutral repair auto-staging. Native camera/projector acceptance remains pending.",
-  "signature": "GoqYGajxHZ8n5ynsO+UY54MNk6yI/Xm84+QFRInunjtU6WlzaD5DG9DeYIdqgID2YzcIA4Bmj5CHZm25+I/DVRH02/yILica5faI+7ObeetHJI4jCOE3YbdFZZ0aIHcMvnYr0HhULY4I/1Z7AXT5n/dZQb1WY7wJaqC7Z45lFUAV+pZvTVnZ2ppOBHDG/E0OJZfEf0d5M642SypW7Zu4HUxSUM1Li/w8Afc8x3kplDlPjqDmyFaFS2c416mHyzrbuwe6xfqfntfBeHJwmHWC85BYAIJUAHcQye674ZDmA1IhWNbR/LSLhJto3xwt92m2RgkB9rcVeLLEliJDNrfNaqjjZP4GsQAcGNWhygHVbdeJZXdrig1FyLNC4/onVA+gngC5MFcLs0dvN4stAqPsUI1Bc9zjzcwI9W0hiG7OtiSyE8j/N9Lip5jCGuj0RzvAKehikDwK4l/crGi3BRz4ZEk1/oLZ8dK4mWkQNSVFODcSqW7FqIxwpuSOb2LpnffF"
+  "version": "0.2.4",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.4/OpenClaw-Voice-Console-Setup-0.2.4.exe",
+  "sha256": "e0bae11a5689f0e13ea39631549ad5b45e946c7089f9abc68f4eada67a48ab5a",
+  "size": 207000470,
+  "notes": "Clarifies that generated 3D designs require confirmation in Studio before they are added. Native Windows audio acceptance remains pending.",
+  "policyVersion": 1,
+  "releaseType": "repair",
+  "permissionChanges": false,
+  "signature": "eHNDPrHrUWVoaQtl9hr/WmRKsbZkevbpaKiCZ1WOUqsA7hgta0W2uuWDIuybttJY6JPmZO0jnW3SeUuCAEG7AG3yhloxw9PuPCg2d8JhOPE/Pi2AOw98shC4iEDKcuVk+RVe4lJs7nqFJyB+zbJKsXONDAsh2aXTjA9fMQvPTilH3EDmAa/0rNupS55OaFGV3LvSWZ2yGhocY1ul0Z5FkJi0vKery1+CniYZI+mPTy+fOkUDLREDO0m0S9BIf0e8CaviQmAPJ834vColM2qDG/u9g+QJjRTGlufyZtSX+1BYZ0rC3xwrDKQ2BSFSNCOOw02DrGLwu+TVPQOsXOZOQqRkxlmSvWDxZhOscXGxAknKmW4hjHkNZthmjZeauOF3rl82C7yQS7tEksO+niASKVTiqyiU7ZQ6ND6owpTpuxo+pJgMfuyb+X1eOC4NmDj3hvgLL+fsjHOJTQg54L3toQTPG3b4knzyhswfzTyAnar9rOEn93/7UTo0NxeC1Ogw"
 }
