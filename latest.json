@@ -1,9 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.3",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.3/OpenClaw-Voice-Console-Setup-0.2.3.exe",
-  "sha256": "75d3a55e05118203aa06c9bcd5fe7d3d4eb5b7a8a944df2223c89c8fa507047b",
-  "size": 162355403,
-  "notes": "Repairs sequential and long-message reliability, correlated recovery, 3D design generation, and prepares signed permission-neutral repair auto-staging. Native camera/projector acceptance remains pending.",
-  "signature": "GoqYGajxHZ8n5ynsO+UY54MNk6yI/Xm84+QFRInunjtU6WlzaD5DG9DeYIdqgID2YzcIA4Bmj5CHZm25+I/DVRH02/yILica5faI+7ObeetHJI4jCOE3YbdFZZ0aIHcMvnYr0HhULY4I/1Z7AXT5n/dZQb1WY7wJaqC7Z45lFUAV+pZvTVnZ2ppOBHDG/E0OJZfEf0d5M642SypW7Zu4HUxSUM1Li/w8Afc8x3kplDlPjqDmyFaFS2c416mHyzrbuwe6xfqfntfBeHJwmHWC85BYAIJUAHcQye674ZDmA1IhWNbR/LSLhJto3xwt92m2RgkB9rcVeLLEliJDNrfNaqjjZP4GsQAcGNWhygHVbdeJZXdrig1FyLNC4/onVA+gngC5MFcLs0dvN4stAqPsUI1Bc9zjzcwI9W0hiG7OtiSyE8j/N9Lip5jCGuj0RzvAKehikDwK4l/crGi3BRz4ZEk1/oLZ8dK4mWkQNSVFODcSqW7FqIxwpuSOb2LpnffF"
+  "version": "0.2.6",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.6/OpenClaw-Voice-Console-Setup-0.2.6.exe",
+  "sha256": "1c1ba33550b9f17e8d6839b3cd05c53b73b8c15fa915a69b89b31d0c438e56a0",
+  "size": 158414493,
+  "notes": "Explicit test update: repairs repeated Basic turns, adds immediate truthful progress feedback, prefers a natural installed Windows voice, and opens a bounded local visitor-analytics panel from a narrow spoken or written request. Native acceptance remains with Ori after installation.",
+  "policyVersion": 1,
+  "releaseType": "feature",
+  "permissionChanges": false,
+  "signature": "TRuTG6UgVJoqFkwDvUARRFXb71dYc7h1ueTspCwBJN3w58DNPfyBcjwVX5LlpNqIp4e2ku0mC9IAwLxlJ0zkfjHHsWUoyJKnLDinS8r6kw4DM+30gU2g3JlWMBGDct3/BeZApUEbG5GKLP3tGDPfedrQfZAjPrOUBSe/pz014uCdwg1xETcKlKJVwhBt5GYq1+RTgnOmN7B+PUJR3NBKrvR4D/qJVOTmpV7YCPyH+OYLAjPT2ur8hJgRfx16ZHnvUR3cQmADjLRztZmYUnElAGIJhBTSlQ0kwN5myQM0GAlxGmt0Q81nVc1MOCgIyAnJYRF9mghrCIc5CxfbZR0RBFmo6bTliDShwChdNJvvuTMbvKC95RsCzqmfiU3vfMDY0XBzEWnIdfzyK4BnOSOuHP8kU7Gr50ccupNptxK4IfJ61S5XHrCITse74FZY+3mMVXBXshQ4l6wwqYLpJqg8nFj7IiRRKelTLJw3EPlzqfsDjGOlF7XrRRNx0OCQs5Pf"
 }
