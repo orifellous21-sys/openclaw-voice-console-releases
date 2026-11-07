@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.6",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.6/OpenClaw-Voice-Console-Setup-0.2.6.exe",
-  "sha256": "1c1ba33550b9f17e8d6839b3cd05c53b73b8c15fa915a69b89b31d0c438e56a0",
-  "size": 158414493,
-  "notes": "Explicit test update: repairs repeated Basic turns, adds immediate truthful progress feedback, prefers a natural installed Windows voice, and opens a bounded local visitor-analytics panel from a narrow spoken or written request. Native acceptance remains with Ori after installation.",
+  "version": "0.2.7",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.7/OpenClaw-Voice-Console-Setup-0.2.7.exe",
+  "sha256": "db5f6db70384e10631690414c5a97bb22d397bc64c215d7e5af3d84d8e2f60fa",
+  "size": 207019449,
+  "notes": "Adds a visible byte-based progress bar and installer verification state to future in-app update downloads. Explicit test update; native Windows acceptance remains with Ori.",
   "policyVersion": 1,
   "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "TRuTG6UgVJoqFkwDvUARRFXb71dYc7h1ueTspCwBJN3w58DNPfyBcjwVX5LlpNqIp4e2ku0mC9IAwLxlJ0zkfjHHsWUoyJKnLDinS8r6kw4DM+30gU2g3JlWMBGDct3/BeZApUEbG5GKLP3tGDPfedrQfZAjPrOUBSe/pz014uCdwg1xETcKlKJVwhBt5GYq1+RTgnOmN7B+PUJR3NBKrvR4D/qJVOTmpV7YCPyH+OYLAjPT2ur8hJgRfx16ZHnvUR3cQmADjLRztZmYUnElAGIJhBTSlQ0kwN5myQM0GAlxGmt0Q81nVc1MOCgIyAnJYRF9mghrCIc5CxfbZR0RBFmo6bTliDShwChdNJvvuTMbvKC95RsCzqmfiU3vfMDY0XBzEWnIdfzyK4BnOSOuHP8kU7Gr50ccupNptxK4IfJ61S5XHrCITse74FZY+3mMVXBXshQ4l6wwqYLpJqg8nFj7IiRRKelTLJw3EPlzqfsDjGOlF7XrRRNx0OCQs5Pf"
+  "signature": "ORY/nV1msqEm5mXc2S8TKfNUpjjlDMuN3CYZEBYKOmaGwTXIyTlm7yKoBa3YYm3BVWMaBwpnDx06Vrkn1On1ymEG/yICIOScAlsqMKlMPi3qvILvBphk7O+QMANEeWjCDKBAxC8o+YsK1VXJqK/e9jNXQ+pTO848sfhU4VDZha2wbtR7+BAhf/dDoskI15oU3uBNF6E2EA0dOxejuQng60ivMCLSpUTEFfng9bX9Q/WLonY3PqGYb0vcXel43nByET+63TBo1aC5aYVNAh2vSh4sQCuk/4KUZ5gjgxioUimlnLFvDdZMmnmKapGW4Pw0MJ/3ePgGu7kH/QC+BpUjeVEf19i+JiN/Ezvk5NH51OPxWWOCwI7K1tmNRd1fCOOWM+FoHjN73PoRQJ34UmznVWTpWQvWhfHs+rYtOE6dI4arFsnrUnOu57hltf3XXI7ZrlMCIMvTLloUtnIyGYDqrfX6TQzksIQrWC7R5fgWuFA6vYO2XAG+/9WQbIOogucf"
 }
