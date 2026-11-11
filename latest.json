@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.7",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.7/OpenClaw-Voice-Console-Setup-0.2.7.exe",
-  "sha256": "db5f6db70384e10631690414c5a97bb22d397bc64c215d7e5af3d84d8e2f60fa",
-  "size": 207019449,
-  "notes": "Adds a visible byte-based progress bar and installer verification state to future in-app update downloads. Explicit test update; native Windows acceptance remains with Ori.",
+  "version": "0.2.8",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.8/OpenClaw-Voice-Console-Setup-0.2.8.exe",
+  "sha256": "4253fbfd471c1e2bc06f887dddbb7295652c355aa6a4161dee8fe1cd91a118b3",
+  "size": 162193735,
+  "notes": "Test release for the first unified 001 workspace milestone: validated contextual views, resilient request identity, and shared Studio ownership contract. No new capture permissions.",
   "policyVersion": 1,
   "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "ORY/nV1msqEm5mXc2S8TKfNUpjjlDMuN3CYZEBYKOmaGwTXIyTlm7yKoBa3YYm3BVWMaBwpnDx06Vrkn1On1ymEG/yICIOScAlsqMKlMPi3qvILvBphk7O+QMANEeWjCDKBAxC8o+YsK1VXJqK/e9jNXQ+pTO848sfhU4VDZha2wbtR7+BAhf/dDoskI15oU3uBNF6E2EA0dOxejuQng60ivMCLSpUTEFfng9bX9Q/WLonY3PqGYb0vcXel43nByET+63TBo1aC5aYVNAh2vSh4sQCuk/4KUZ5gjgxioUimlnLFvDdZMmnmKapGW4Pw0MJ/3ePgGu7kH/QC+BpUjeVEf19i+JiN/Ezvk5NH51OPxWWOCwI7K1tmNRd1fCOOWM+FoHjN73PoRQJ34UmznVWTpWQvWhfHs+rYtOE6dI4arFsnrUnOu57hltf3XXI7ZrlMCIMvTLloUtnIyGYDqrfX6TQzksIQrWC7R5fgWuFA6vYO2XAG+/9WQbIOogucf"
+  "signature": "YdzXteNBt+v1zcLHVIp+tKqXXKTIOPaih/cKjLmn6QsuYpepWFU3ym3JjWjR3M05x3SXfDrdAR1i6z4m8r5oHHopMEhP8LBJNyOg8m1NkmOV9ERSPYGM5reBr/97R4F9gEs2Qn05MlE7MPE5I6mCTs3mwFcOV2kn9m4y+Oxg/ZMQOForODuhfX94noNWXOknFeQALvMid4jVtdokZCOhaRitRH6D6ihtS2dU8iAGrYNE/eGjKLS2hoK8v8lZmi6PIKd90/auyzpELdmwGIT5MGzQOxdUAbDfEukq8ZvKaqnFW1YK7TBZTbN7sflkF6W3bBgNkR9JSGo6F6crI2Pc6Q1VrsCYqE4IB5tQBoGVgRjiSvTlKsqeH6zbGGOUnxO6vwpjBHz5Gyz47OgFnItjVFMpVETn9QnfHuJq06HqFZTEy6p5jrQLwlkNVPF9rI0iZoQbecmKYXdImrZQ1Lm20dbcxmoDfJ+snLta1EJ/Dgl5HjK+9t4CU2eTZbTxH4Da"
 }
