@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.9",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.9/OpenClaw-Voice-Console-Setup-0.2.9.exe",
-  "sha256": "36d00b9ece0454d7d09c4768d7a69047da43550c26846554b0cdfe313172f165",
-  "size": 162319657,
-  "notes": "Windows test candidate with speech-timed orb motion; native Windows voice and camera acceptance pending; no new capture permissions.",
+  "version": "0.2.10",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.10/OpenClaw-Voice-Console-Setup-0.2.10.exe",
+  "sha256": "e0f6ccee22019a5aa72bdfee1f5fc741b85fa869d617411d38f86745db1adfd1",
+  "size": 162239780,
+  "notes": "Repair: pending processing no longer appears as the answer; same request ID waits for completed reply. Native Windows test pending.",
   "policyVersion": 1,
-  "releaseType": "feature",
+  "releaseType": "repair",
   "permissionChanges": false,
-  "signature": "SYJ6t+h+yOiUovrXchY2tYMAt8w4JBFJyvYCFxnjhZC0zL6H8TlvBTLD9b4fFewvUUWdOGKYph0rRXB8P3uTbkj9sYx1jPNsamDkmi16yq8g2dlEpRl3R9h0tiDyhTDIVofrYFy7xwXEyjev4JykQb+rLopptPHwGzO2GbcejamsenYO7zh5tdlLzkPNgZR+yZ4sGmd7GHvEwDRb6ci9x9jtr2TgM08BPj8yq7aG88M+qeI/VGohZJokHS7jKeHpPwfZ3eRalkkTxi8zHRUkP+iQXCmOe3JvBAWC/dvdssva+9JEJ0DVOd+NgzJtlh7Np4dD1dx7ct6k2+kEECl7eokNueDm2BBDet0MTqJQpUB0FYS8oRYavF+Pu+A2wt6sZDz7NYIOgjKhZtDarVPbrLo2HTAQJy7DF0IHIqbyHfWHC0Byti7P5ZSrnOEctQN/5q4VvpzV6Udx+c0NnOQE9PfYpaSEQeXHYznqC5ewnZ4Qn5E5lTCcIGOoUofnXOqV"
+  "signature": "P/1+COvjEJnI7EKGGqF0xZoPRMneiD3zAIXvDtOxfQPPrg3z6p/kKdYmYa+jYlkKubRX2T1Rg1++HZClq5uL6TZJo0Vk3Cuw4t7jqO/yxhea49VDsHq4sfX873P0cesr5GDK4JKa4ZbMLJXPEP81G36YQRaU9AiadvCqPXLsz7MgS+2XhyQhKIdQsUanZywiyKPI9hRPX3BZrHMSafk7Z0Rsf4XXATBc0SO7JzO5pHQQJXZ0mlawe9hsuv8dCO3H/Uu/AseInoonZNGM31H+nxn0EBL0FRk4w/Yk9CadPkMWPHLZ+cc2it7rEQ7qZVuo6est/SxyFWiYwv9DtNG3AcpKEzLXtVf/quO5LW/Z9TuVyYBGvjMNq6a81HnIttECJtx/VWYWOh9aiDcTPdqvZjtQgZ5HsYMBEB2cgWtWTyMNLgUs14fL8HpaEdWiIkE+5i7H7Mya7qm0zXO7IBL6e7s8oh6M0uyCKO/X7TesvSHSSVu8ZLVDtRCyqcLxA+TC"
 }
