@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.8",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.8/OpenClaw-Voice-Console-Setup-0.2.8.exe",
-  "sha256": "4253fbfd471c1e2bc06f887dddbb7295652c355aa6a4161dee8fe1cd91a118b3",
-  "size": 162193735,
-  "notes": "Test release for the first unified 001 workspace milestone: validated contextual views, resilient request identity, and shared Studio ownership contract. No new capture permissions.",
+  "version": "0.2.9",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.9/OpenClaw-Voice-Console-Setup-0.2.9.exe",
+  "sha256": "36d00b9ece0454d7d09c4768d7a69047da43550c26846554b0cdfe313172f165",
+  "size": 162319657,
+  "notes": "Windows test candidate with speech-timed orb motion; native Windows voice and camera acceptance pending; no new capture permissions.",
   "policyVersion": 1,
   "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "YdzXteNBt+v1zcLHVIp+tKqXXKTIOPaih/cKjLmn6QsuYpepWFU3ym3JjWjR3M05x3SXfDrdAR1i6z4m8r5oHHopMEhP8LBJNyOg8m1NkmOV9ERSPYGM5reBr/97R4F9gEs2Qn05MlE7MPE5I6mCTs3mwFcOV2kn9m4y+Oxg/ZMQOForODuhfX94noNWXOknFeQALvMid4jVtdokZCOhaRitRH6D6ihtS2dU8iAGrYNE/eGjKLS2hoK8v8lZmi6PIKd90/auyzpELdmwGIT5MGzQOxdUAbDfEukq8ZvKaqnFW1YK7TBZTbN7sflkF6W3bBgNkR9JSGo6F6crI2Pc6Q1VrsCYqE4IB5tQBoGVgRjiSvTlKsqeH6zbGGOUnxO6vwpjBHz5Gyz47OgFnItjVFMpVETn9QnfHuJq06HqFZTEy6p5jrQLwlkNVPF9rI0iZoQbecmKYXdImrZQ1Lm20dbcxmoDfJ+snLta1EJ/Dgl5HjK+9t4CU2eTZbTxH4Da"
+  "signature": "SYJ6t+h+yOiUovrXchY2tYMAt8w4JBFJyvYCFxnjhZC0zL6H8TlvBTLD9b4fFewvUUWdOGKYph0rRXB8P3uTbkj9sYx1jPNsamDkmi16yq8g2dlEpRl3R9h0tiDyhTDIVofrYFy7xwXEyjev4JykQb+rLopptPHwGzO2GbcejamsenYO7zh5tdlLzkPNgZR+yZ4sGmd7GHvEwDRb6ci9x9jtr2TgM08BPj8yq7aG88M+qeI/VGohZJokHS7jKeHpPwfZ3eRalkkTxi8zHRUkP+iQXCmOe3JvBAWC/dvdssva+9JEJ0DVOd+NgzJtlh7Np4dD1dx7ct6k2+kEECl7eokNueDm2BBDet0MTqJQpUB0FYS8oRYavF+Pu+A2wt6sZDz7NYIOgjKhZtDarVPbrLo2HTAQJy7DF0IHIqbyHfWHC0Byti7P5ZSrnOEctQN/5q4VvpzV6Udx+c0NnOQE9PfYpaSEQeXHYznqC5ewnZ4Qn5E5lTCcIGOoUofnXOqV"
 }
