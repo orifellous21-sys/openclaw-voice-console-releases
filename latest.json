@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.10",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.10/OpenClaw-Voice-Console-Setup-0.2.10.exe",
-  "sha256": "e0f6ccee22019a5aa72bdfee1f5fc741b85fa869d617411d38f86745db1adfd1",
-  "size": 162239780,
-  "notes": "Repair: pending processing no longer appears as the answer; same request ID waits for completed reply. Native Windows test pending.",
+  "version": "0.2.11",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.11/OpenClaw-Voice-Console-Setup-0.2.11.exe",
+  "sha256": "9774fd8b002e91b4efb9a3063a6aec3ca525509264a0454e49bd65a56aff15d4",
+  "size": 162312395,
+  "notes": "In-app video attachment candidate up to 128 MB; native Windows acceptance pending.",
   "policyVersion": 1,
-  "releaseType": "repair",
+  "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "P/1+COvjEJnI7EKGGqF0xZoPRMneiD3zAIXvDtOxfQPPrg3z6p/kKdYmYa+jYlkKubRX2T1Rg1++HZClq5uL6TZJo0Vk3Cuw4t7jqO/yxhea49VDsHq4sfX873P0cesr5GDK4JKa4ZbMLJXPEP81G36YQRaU9AiadvCqPXLsz7MgS+2XhyQhKIdQsUanZywiyKPI9hRPX3BZrHMSafk7Z0Rsf4XXATBc0SO7JzO5pHQQJXZ0mlawe9hsuv8dCO3H/Uu/AseInoonZNGM31H+nxn0EBL0FRk4w/Yk9CadPkMWPHLZ+cc2it7rEQ7qZVuo6est/SxyFWiYwv9DtNG3AcpKEzLXtVf/quO5LW/Z9TuVyYBGvjMNq6a81HnIttECJtx/VWYWOh9aiDcTPdqvZjtQgZ5HsYMBEB2cgWtWTyMNLgUs14fL8HpaEdWiIkE+5i7H7Mya7qm0zXO7IBL6e7s8oh6M0uyCKO/X7TesvSHSSVu8ZLVDtRCyqcLxA+TC"
+  "signature": "YPuVa8JBq0St90InzpWqzFFDmwjbITZMFlH58yWE7DSQ05ofoO8XNqb74GOI45aMaMBo4XBWl9lECZQ2R5G5Zfuui/BG2YhPC2hNyipZrHHrSn8U+y7je8y/Xlintud0rGlQbtJ3jFY0XuibOAQwRS+FMyyNk2U2mcWWLtlcUaLwDd0JxnDnfxKYM3bU/TqzKmhHXCS8z/fo7IW2AYSh3pJl733detOB3iJCKRX1c2gN01urkm7v+4JTWrcQM3jPmkHOk2eKfmuLxmki91tgccvgcW+L4CgF7yksPfWVCEju6GFq1xK9DmNNRQ++KJAvC5kdOGcGKMdGQ7yUX2bq/6wPmh5EHaFaRnjyb9bK2ZV0M1FkWAiw9/Iq9JXeGTy/8nGx4cIPUlGjeWZLtyrwJ0f6J1WaSk+1hX3yihKjwz0RvNfzqE5ByEV97mvYi3ZMTUK3MPJpjxB8wb5QVW1WuVBIMzVqOyKJPsghDcH+kxI7bD4WJ2XVamOZBLrhIRsc"
 }
