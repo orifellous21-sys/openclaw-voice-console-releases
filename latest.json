@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.11",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.11/OpenClaw-Voice-Console-Setup-0.2.11.exe",
-  "sha256": "9774fd8b002e91b4efb9a3063a6aec3ca525509264a0454e49bd65a56aff15d4",
-  "size": 162312395,
-  "notes": "In-app video attachment candidate up to 128 MB; native Windows acceptance pending.",
+  "version": "0.2.12",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.12/OpenClaw-Voice-Console-Setup-0.2.12.exe",
+  "sha256": "13903fe2d7bf2241a077a5dc368223822b62562a68474009e60524a52d8a7d18",
+  "size": 162220015,
+  "notes": "Hands-free turn-taking repair candidate; native Windows microphone test pending. Fast first reply remains unfinished.",
   "policyVersion": 1,
-  "releaseType": "feature",
+  "releaseType": "repair",
   "permissionChanges": false,
-  "signature": "YPuVa8JBq0St90InzpWqzFFDmwjbITZMFlH58yWE7DSQ05ofoO8XNqb74GOI45aMaMBo4XBWl9lECZQ2R5G5Zfuui/BG2YhPC2hNyipZrHHrSn8U+y7je8y/Xlintud0rGlQbtJ3jFY0XuibOAQwRS+FMyyNk2U2mcWWLtlcUaLwDd0JxnDnfxKYM3bU/TqzKmhHXCS8z/fo7IW2AYSh3pJl733detOB3iJCKRX1c2gN01urkm7v+4JTWrcQM3jPmkHOk2eKfmuLxmki91tgccvgcW+L4CgF7yksPfWVCEju6GFq1xK9DmNNRQ++KJAvC5kdOGcGKMdGQ7yUX2bq/6wPmh5EHaFaRnjyb9bK2ZV0M1FkWAiw9/Iq9JXeGTy/8nGx4cIPUlGjeWZLtyrwJ0f6J1WaSk+1hX3yihKjwz0RvNfzqE5ByEV97mvYi3ZMTUK3MPJpjxB8wb5QVW1WuVBIMzVqOyKJPsghDcH+kxI7bD4WJ2XVamOZBLrhIRsc"
+  "signature": "FC0EdT9yyd1veMNO7Otcoekberi2e2+4WcDOBLgk6favbyk5cBMHo/2Z8e4uS0GaZU74D2f8lk/BlwO6wDgNXgdDoZ7c6Q16HzKZYY8+Ikt82BaTVSmDPXKMKPmMCIwgJbDqGbV/IPLsmOMQPf38I1w5kxmME6zTKG7OCuswhpykoF8450kRDoAolT3hstNReQzihHFNFFKGJQzlaSE4rr6oNIfDKxEMGMVS0LFJQfugxOdLUFE/ClzTodZP+W6DCFdtPd+XOGIT0OcVOt+gRl2KjvoFH2pS/bCX/GbJbkA0aB0ZDU4/6TtEibnEsrGIyeZhjrTKL+SkOoeUQPmjGfErI9rUfIAzx9iA5qH2COqAiBGM+pkOWlXYqXCeWK9oXoOa9+znaAW1lFN3gFscEKq6TbuMdUmzW3CHK/jDh+LMyxvJsD68B70dQeP6v2t+Dlu4hw6movCLqMnXz+RuMJaxy1zmQ/liJfRK1oJWEQvlVjotUSiV7PoVP76f/Edr"
 }
