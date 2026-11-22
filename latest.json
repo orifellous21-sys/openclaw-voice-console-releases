@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.12",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.12/OpenClaw-Voice-Console-Setup-0.2.12.exe",
-  "sha256": "13903fe2d7bf2241a077a5dc368223822b62562a68474009e60524a52d8a7d18",
-  "size": 162220015,
-  "notes": "Hands-free turn-taking repair candidate; native Windows microphone test pending. Fast first reply remains unfinished.",
+  "version": "0.2.13",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.13/OpenClaw-Voice-Console-Setup-0.2.13.exe",
+  "sha256": "5c3fea1f0e930d1eeb4f2639f03fe2047a900af0daa1f1b667aaac517e7fee50",
+  "size": 207023312,
+  "notes": "Adds a visible OpenAI weekly and 5-hour quota meter; explicit install required. Windows acceptance pending.",
   "policyVersion": 1,
-  "releaseType": "repair",
+  "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "FC0EdT9yyd1veMNO7Otcoekberi2e2+4WcDOBLgk6favbyk5cBMHo/2Z8e4uS0GaZU74D2f8lk/BlwO6wDgNXgdDoZ7c6Q16HzKZYY8+Ikt82BaTVSmDPXKMKPmMCIwgJbDqGbV/IPLsmOMQPf38I1w5kxmME6zTKG7OCuswhpykoF8450kRDoAolT3hstNReQzihHFNFFKGJQzlaSE4rr6oNIfDKxEMGMVS0LFJQfugxOdLUFE/ClzTodZP+W6DCFdtPd+XOGIT0OcVOt+gRl2KjvoFH2pS/bCX/GbJbkA0aB0ZDU4/6TtEibnEsrGIyeZhjrTKL+SkOoeUQPmjGfErI9rUfIAzx9iA5qH2COqAiBGM+pkOWlXYqXCeWK9oXoOa9+znaAW1lFN3gFscEKq6TbuMdUmzW3CHK/jDh+LMyxvJsD68B70dQeP6v2t+Dlu4hw6movCLqMnXz+RuMJaxy1zmQ/liJfRK1oJWEQvlVjotUSiV7PoVP76f/Edr"
+  "signature": "U2qnjSErZy4nSJcSjkKykiyJeICMZ8Q2AEupfJDlz9C0A8SS5vnwU5kiTKoqVSbsTD5JdGvymzVMNj8l4/RI1Tcn2XcznmLjhfGkU4zxWpUofbsCH3nkjpPDTWpaRVxLQ+DHgn0fEr0yak3dgeSA7kOCUNLF0zZcdqbMrL05kBwjZ3WF6X4q1f7KPINFIS6sJ+bfvni02pdPQBsVlH2yY1fGYWiWIL4I+VM9pA3LzwieWEnK6wqXdqOVD76WZJyF50UQ2suauuti6CsfAuQ1/nih29CSOOtbFvfGLKOjQQUv2ditFkonG90UKyVx7LfhhSZyzUzVCDM9w2B2ctcYGDNaiP+P3ONmt4mDPrb39HIjWv4TrOFHtvssDL3QhWfydu/b1o9FYFmIfSfriM2uvCwYgrqdapram4ggUNT7pz1zHnNfTU9+hyAhD9qWCQ51XWocWGZ3bCpqpuYrwtx9NQez4XqyvR8uFx+YwkN4vZdg/tFXjmB/DEQBq16ug6rL"
 }
