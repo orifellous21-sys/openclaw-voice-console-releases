@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.14",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.14/OpenClaw-Voice-Console-Setup-0.2.14.exe",
-  "sha256": "c80529fd25bcf7f6a9fe74d89d0cb778c195708fa2243d68240f56b33e458b3d",
-  "size": 287770419,
-  "notes": "Test update: longer chat execution window; 001 British voice candidate with Windows speech fallback. Native Windows voice and two-turn reliability need your test.",
+  "version": "0.2.15",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.15/OpenClaw-Voice-Console-Setup-0.2.15.exe",
+  "sha256": "6365e3baa8f89b7673bc58a80ca9864762e3fde2da746504c2017d9f703cfcef",
+  "size": 239101272,
+  "notes": "Early model-written first reply while the same task continues; bounded same-ID recovery. Windows speech acceptance remains open.",
   "policyVersion": 1,
   "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "PCqFROskMOhXHxOhp+RYfCkOo8l00TWzvZ+c5CzBSZc7TEj1tj/LsN165sz/iN6NHDX4QQapoMcdZDmuhs1bnhMZb8m/oLbB+o0uTW39+l6DYibXkJlLSy0gy1EfRowxApDlCx5YuFAXJyV6a7J8akKtlqYPWJ7O5fbdWugtw7L1K0z4ZcLTcpnQhZev3LIzz3zwgJOqxdPYRHoIKti631ojMYnrRP2z7ntXpZSGR6HzHLFvxi7pddosPd2PDKOVGgKQhikFStQ43+H3dK/9lJ7v1rjAwXwU2x+hw456n6wb46QxyyaiMlyC+3/uyGzryfRXACE/lxznPVikS7omxTr/YAFXSwd2+9+nesUnaBpCAHjRIt0QXlHXlYzhLoIawTUEHuy7kycU0A2IuAln9cvUUGHnkTTjoBqKDpNUyhDZpFr+muSV6cA2Or7fhgMV5630pLXG5kAl5/j+N8nniO39+4zyK7eRBBQ+4vuxiw9e55ZlWUZNhfuit+0zsy6M"
+  "signature": "V2HTPdhzJFYOT4p2bUy3doI695Rt6709ltGNxt+xOiXXlCdadmqoHp7dpeD0tgY73FCBxyvBnrL2PKkK+Qbjx6er7jVdf6DB+cW8ynz5+Sb+6Culg2r+rY/e7JOrKf5Xo2fgJmzBBeK4pSZSOekFZ3RtjO14sLpwB4yRb9+MSfk6CaD/eLMOv4qTR8RbcrMhSfqw+5/2cc+tgbT5Y+WL35HAVDGaX3lrCVHMz6TIvVD37U0Q4NRsIIn5qvQmUSguhcQL9qBKS1QNaFyN7h86UU+qYgNcIqP4fFhuCINP1NUyRIp3okHYES6FiLGD/EJdzsQCP0w7m9/kDZs7foIMR7QbiZy33v2SVaDqMRYyGDddzIXvWz+XLJYa4LThBfm4Rg5iB32yhp9MFLaAfqOZllgY88BCAeY984Rd4hPUBVLFtrhqDti0ukHAuYDcyyV//psg3BeYWdij35AXQYOXRL+UNmFqYJzeEBW34lMilAGBQ3b+Yia7QMJyC1TbvGtj"
 }
