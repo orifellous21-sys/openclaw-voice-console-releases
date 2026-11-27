@@ -1,12 +1,12 @@
 {
   "name": "OpenClaw Voice Console",
-  "version": "0.2.13",
-  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.13/OpenClaw-Voice-Console-Setup-0.2.13.exe",
-  "sha256": "5c3fea1f0e930d1eeb4f2639f03fe2047a900af0daa1f1b667aaac517e7fee50",
-  "size": 207023312,
-  "notes": "Adds a visible OpenAI weekly and 5-hour quota meter; explicit install required. Windows acceptance pending.",
+  "version": "0.2.14",
+  "url": "https://github.com/orifellous21-sys/openclaw-voice-console-releases/releases/download/v0.2.14/OpenClaw-Voice-Console-Setup-0.2.14.exe",
+  "sha256": "c80529fd25bcf7f6a9fe74d89d0cb778c195708fa2243d68240f56b33e458b3d",
+  "size": 287770419,
+  "notes": "Test update: longer chat execution window; 001 British voice candidate with Windows speech fallback. Native Windows voice and two-turn reliability need your test.",
   "policyVersion": 1,
   "releaseType": "feature",
   "permissionChanges": false,
-  "signature": "U2qnjSErZy4nSJcSjkKykiyJeICMZ8Q2AEupfJDlz9C0A8SS5vnwU5kiTKoqVSbsTD5JdGvymzVMNj8l4/RI1Tcn2XcznmLjhfGkU4zxWpUofbsCH3nkjpPDTWpaRVxLQ+DHgn0fEr0yak3dgeSA7kOCUNLF0zZcdqbMrL05kBwjZ3WF6X4q1f7KPINFIS6sJ+bfvni02pdPQBsVlH2yY1fGYWiWIL4I+VM9pA3LzwieWEnK6wqXdqOVD76WZJyF50UQ2suauuti6CsfAuQ1/nih29CSOOtbFvfGLKOjQQUv2ditFkonG90UKyVx7LfhhSZyzUzVCDM9w2B2ctcYGDNaiP+P3ONmt4mDPrb39HIjWv4TrOFHtvssDL3QhWfydu/b1o9FYFmIfSfriM2uvCwYgrqdapram4ggUNT7pz1zHnNfTU9+hyAhD9qWCQ51XWocWGZ3bCpqpuYrwtx9NQez4XqyvR8uFx+YwkN4vZdg/tFXjmB/DEQBq16ug6rL"
+  "signature": "PCqFROskMOhXHxOhp+RYfCkOo8l00TWzvZ+c5CzBSZc7TEj1tj/LsN165sz/iN6NHDX4QQapoMcdZDmuhs1bnhMZb8m/oLbB+o0uTW39+l6DYibXkJlLSy0gy1EfRowxApDlCx5YuFAXJyV6a7J8akKtlqYPWJ7O5fbdWugtw7L1K0z4ZcLTcpnQhZev3LIzz3zwgJOqxdPYRHoIKti631ojMYnrRP2z7ntXpZSGR6HzHLFvxi7pddosPd2PDKOVGgKQhikFStQ43+H3dK/9lJ7v1rjAwXwU2x+hw456n6wb46QxyyaiMlyC+3/uyGzryfRXACE/lxznPVikS7omxTr/YAFXSwd2+9+nesUnaBpCAHjRIt0QXlHXlYzhLoIawTUEHuy7kycU0A2IuAln9cvUUGHnkTTjoBqKDpNUyhDZpFr+muSV6cA2Or7fhgMV5630pLXG5kAl5/j+N8nniO39+4zyK7eRBBQ+4vuxiw9e55ZlWUZNhfuit+0zsy6M"
 }
